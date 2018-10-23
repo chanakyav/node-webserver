@@ -1,0 +1,14 @@
+# Ignore folder named `node_modules`
+node_modules/
+
+# Ignore folder named `playground`
+playground/
+
+# Ignore confiq file
+config.json
+
+# Ignore Mac specific hidden file
+.DS_Store
+
+# Ignore server log
+server.log
