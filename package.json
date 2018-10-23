@@ -1,7 +1,6 @@
 {
   "name": "webserver",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +11,15 @@
   "dependencies": {
     "express": "^4.16.4",
     "hbs": "^4.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanakyav/node-webserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chanakyav/node-webserver/issues"
+  },
+  "homepage": "https://github.com/chanakyav/node-webserver#readme",
+  "description": ""
 }
